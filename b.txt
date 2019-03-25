@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Pawitchaya
+=======
+Noon
+>>>>>>> feature2
 rabbit is animal
